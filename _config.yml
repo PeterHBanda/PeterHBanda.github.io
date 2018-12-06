@@ -1,7 +1,7 @@
 # Site settings
-title:
+title: Bootje Cornelia
 email:
-description: > # this means to ignore newlines until "baseurl:"
+description: Een website voor m'n bootje # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
