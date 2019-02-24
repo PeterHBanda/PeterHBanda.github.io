@@ -1,0 +1,18 @@
+# carousel banners section
+# Add items for each banner image in the carousel
+#
+# Images are expected to be located in `static/assets/img/`.
+- src: hero/02-boot-op-land.jpg
+  title: banner image
+
+- src: hero/03-terug-van-werf.jpg
+  title: banner image
+
+- src: hero/18-mag-verf-op.jpg
+  title: banner image
+
+- src: hero/21-naar-friesland.jpg
+  title: banner image
+
+- src: hero/25-verlengde-hoogeveensche-vaart.jpg
+  title: banner image

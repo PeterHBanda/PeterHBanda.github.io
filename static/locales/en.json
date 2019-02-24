@@ -1,0 +1,20 @@
+{
+  "website":{
+    "title": "Cornelia blog"
+  },
+  "nav":{
+    "home": "Home",
+    "gofundme": "GoFundMe",
+    "contact": "Contact",
+    "roadmap": "Roadmap",
+    "blog": "Blog",
+  },
+  "blog":{
+    "my_blog": "Cornelia blog"
+  },
+  "link":{
+    "link": "Link",
+    "view": "views"
+  }
+
+}
