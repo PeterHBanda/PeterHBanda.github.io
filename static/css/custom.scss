@@ -2,8 +2,18 @@
 
 ---
 
-@import "search";
-@import "pygments";
-@import "open_sans";
-@import "roboto";
-@import "style";
+
+
+$theme-primary: #F05F40;
+$theme-dark: #222;
+
+
+@import
+  "mixins",
+  "base",
+  "search",
+  "pygments",
+  "open_sans",
+  "roboto",
+  "style"
+;

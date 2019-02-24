@@ -2369,8 +2369,8 @@ body {
     }
   }
   section p {
-    color: #aeaeae;
-    font-size: 13px;
+    color: #F05F40;
+    font-size: 20px;
   }
   h1 {
     margin-top: 10px;
@@ -2604,7 +2604,7 @@ body {
       color: #F05F40;
     }
     h2 {
-      font-size: 18px;
+      font-size: 30px;
       margin-top: 5px;
     }
   }
@@ -2657,7 +2657,7 @@ body {
     background-repeat-x: no-repeat;
   }
   .contact {
-    background-image: url(../assets/img/landing/word_map.png);
+    background-image: url(../assets/img/contact/waterkaart.jpg);
     background-position: 50% 50%;
     background-repeat: no-repeat;
     margin-top: 60px;
@@ -2820,6 +2820,20 @@ body {
   }
 }
 
+#gfm-button {
+  color: #F05F40;
+  &:hover {
+    color: black;
+  }
+}
+
+#meer-button {
+
+}
+
+.paragraph-text {
+  color: white!important;
+}
 
 $theme-primary: #F05F40;
 $theme-dark: #222;

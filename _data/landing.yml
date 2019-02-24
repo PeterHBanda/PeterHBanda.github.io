@@ -7,15 +7,10 @@
 #   css:
 #
 
-- id: roadmap
-  name: Roadmap
-  tpl: roadmap.html
-  css: timeline
-
-- id: gofundme
-  name: GoFundMe
-  tpl: gofundme.html
-  css: gofundme
+- id: fotos
+  name: Foto's
+  tpl: fotos.html
+  css: fotos no-padding
 
 - id: contact
   name: Contact
@@ -27,3 +22,18 @@
   tpl: blog.html
   page: blog/
   css: testimonials navy-section
+
+- id: gofundme
+  name: GoFundMe
+  tpl: gofundme.html
+  css: gofundme no-padding
+
+- id: onderhoud
+  name: Onderhoud
+  tpl: onderhoud.html
+  css: onderhoud
+
+- id: roadmap
+  name: Roadmap
+  tpl: roadmap.html
+  css: timeline

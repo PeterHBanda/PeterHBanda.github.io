@@ -296,8 +296,7 @@ header {
 
 // Button Styles
 .btn-default {
-    // @include button-variant($theme-dark, white, white);
-    background-color: #000000;
+    @include button-variant($theme-dark, white, white);
 }
 
 .btn-primary {
