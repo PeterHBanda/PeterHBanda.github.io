@@ -1,3 +1,3 @@
-# TimVanMourik.github.io
+# PeterHBanda.github.io
 
-This repository is **NOT** called TimVanMourik.github.io anymore, because that would transfer all Github website to my personal website.
+Dit is de website voor de Cornelia (www.motorschipCornelia.nl), het motorvrachtschip uit 1903 van Lianne en PETER BANDA.
