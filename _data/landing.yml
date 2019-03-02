@@ -28,12 +28,17 @@
   tpl: gofundme.html
   css: gofundme no-padding
 
+- id: roadmap
+  name: Roadmap
+  tpl: roadmap.html
+  css: timeline
+
 - id: onderhoud
   name: Onderhoud
   tpl: onderhoud.html
   css: onderhoud
 
-- id: roadmap
-  name: Roadmap
-  tpl: roadmap.html
-  css: timeline
+- id: andere-interessante-sites
+  name: Links
+  tpl: links.html
+  css: links
